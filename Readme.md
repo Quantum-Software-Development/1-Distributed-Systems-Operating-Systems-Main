@@ -181,7 +181,8 @@ You will learn what distributed systems are, how they talk to each other, and ho
   
 #
  
-##### <p align="center">Copyright 2026 Mindful-AI-Assistants. Code released under the  [MIT license](https://github.com/Quantum-Software-Development/1-Distributed-Systems-Operating-Systems-Main/blob/main/LICENSE).
+
+###### <p align="center"> Copyright 2026 Quantum Software Development. Code released under the  [MIT license](https://github.com/Quantum-Software-Development/1-Distributed-Systems-Operating-Systems-Main/blob/main/LICENSE).
 
 
 
