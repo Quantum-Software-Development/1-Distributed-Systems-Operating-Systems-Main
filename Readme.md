@@ -26,11 +26,11 @@
 ## [Course Identity]()
 
 
-[-]()  **Course name:** Consulting Specialized Support for Integrated Project: Distributed Systems 
-- **Program:** Humanistic AI and Data Science (Ciência de Dados e Inteligência Artificial, 5th semester)
-- - **School:** Faculdade de Estudos Interdisciplinares – PUC-SP
-- **Semester / Year:** 1º/2026
-- **Workload:** 72 hours (72 credits-hours
+- [**Course name:**]() Consulting Specialized Support for Integrated Project: Distributed Systems 
+- [**Program:**]() Humanistic AI and Data Science (Ciência de Dados e Inteligência Artificial, 5th semester)
+- [**School:**]() Faculdade de Estudos Interdisciplinares – PUC-SP
+- [**Semester / Year:**]() 1º/2026
+- [**Workload:** 72 hours (72 credits-hours
 - **Professor:** [✨ Carlos Eduardo de Barros Paes]() 
 
 
