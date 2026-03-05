@@ -46,4 +46,42 @@ Here you will find an organized view of all weekly classes, links to sub-reposit
 
 <br><br>
 
+<br><br>
+
+
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+
+
+<br><br>
+
+<!--Confidentiality statement -->
+
+#
+
+<br><br><br>
+
+> [!NOTE]
+> 
+> ⚠️ Heads Up
+>
+> * Projects and deliverables may be made [publicly available]() whenever possible.
+>   
+> * The course emphasizes [**practical, hands-on experience**]() with real datasets to simulate professional consulting scenarios in the fields of **Machine Learning and Neural Networks** for partner organizations and institutions affiliated with the university.
+>   
+> * All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
+>   
+> * Any content not authorized for public disclosure will remain [**confidential**]() and securely stored in [private repositories]().  
+> <br>
+>
+>
+
+
+
+<br><br>
+
+#
+
+<!--END Confidentiality statement -->
+
+
 
