@@ -81,8 +81,16 @@ Here you will find an organized view of all weekly classes, links to sub-reposit
 
 
 
+## [What You Will Learn (In Simple Words)]()
+
+The course is about how many computers can **work together** as a team to solve problems faster and handle a lot of data.
+
+You will learn what distributed systems are, how they talk to each other, and how to program them using modern tools like Python, Spark, Hadoop, and GPUs.
 
 
+
+
+<br><br>
 
 
 
