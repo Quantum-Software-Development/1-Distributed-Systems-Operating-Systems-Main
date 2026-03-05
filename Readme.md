@@ -173,7 +173,7 @@ Here you will find an organized view of all weekly classes, links to sub-reposit
   
 #
  
-##### <p align="center">Copyright 2026 Mindful-AI-Assistants. Code released under the  [MIT license.](https://github.com/Mindful-AI-Assistants/CDIA-Entrepreneurship-Soft-Skills-PUC-SP/blob/21961c2693169d461c6e05900e3d25e28a292297/LICENSE)
+##### <p align="center">Copyright 2026 Mindful-AI-Assistants. Code released under the  [MIT license](https://github.com/Quantum-Software-Development/1-Distributed-Systems-Operating-Systems-Main/blob/main/LICENSE).
 
 
 
